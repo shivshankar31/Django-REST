@@ -1,0 +1,20 @@
+install the required software
+1. django
+2. djangorestframwork 
+3. mysql server
+4. mysql client
+5. postman
+
+
+
+
+17: step1: create new project 
+step 1.1: create project folder, create virtualenv 
+step 1.2: on terminal, django-admin startproject firstproject
+step 1.3: create github repo, make first commit
+
+18, 19, 20: step 2: create view, add urls
+step 2.1: create a function based view.
+step 2.2: call the created view in urls.py(project level), for testing
+step 2.3: create a new urls.py file in app level and make the changes 
+
