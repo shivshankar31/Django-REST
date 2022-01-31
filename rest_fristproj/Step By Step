@@ -18,3 +18,7 @@ step 2.1: create a function based view.
 step 2.2: call the created view in urls.py(project level), for testing
 step 2.3: create a new urls.py file in app level and make the changes 
 
+21, 22,: step 3: create models, change database
+step 3.1: in models.py, create new model class, to create table in database
+step 3.2: in settings.py, change the database to mysql
+step 3.3: makemigration and verify the table are created or not.
