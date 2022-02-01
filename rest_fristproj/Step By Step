@@ -22,3 +22,7 @@ step 2.3: create a new urls.py file in app level and make the changes
 step 3.1: in models.py, create new model class, to create table in database
 step 3.2: in settings.py, change the database to mysql
 step 3.3: makemigration and verify the table are created or not.
+
+23: step 4: call data from database
+step 4.1: in views.py, import created models and add data quary set "data = empModel.objects.all();"
+step 4.2: add response inside a dict, and return the response 
